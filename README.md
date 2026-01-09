@@ -1,6 +1,4 @@
-# 📘 DAX README (Simple Explanation – No Examples)
-
-This README gives a **simple explanation of DAX concepts** without using code examples. It is suitable for adding directly to a **GitHub repository**.
+# 📘 Data-Analysis-Expressions (DAX)
 
 ---
 
